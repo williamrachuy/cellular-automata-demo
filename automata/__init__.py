@@ -1,0 +1,1 @@
+"""Cellular automata visualization application."""
